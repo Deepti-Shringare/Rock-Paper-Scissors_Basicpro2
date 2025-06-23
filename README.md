@@ -1,0 +1,1 @@
+# this project is to build basic understanding of frontend js
